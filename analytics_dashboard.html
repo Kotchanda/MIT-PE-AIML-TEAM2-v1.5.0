@@ -1,0 +1,99 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Insurance Bot Analytics Dashboard</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <style>
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; margin: 20px; }
+    .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; }
+    .card { border: 1px solid #ddd; border-radius: 12px; padding: 14px; }
+    h1 { font-size: 20px; margin: 0 0 8px 0; }
+    h2 { font-size: 14px; margin: 0 0 10px 0; color: #333; }
+    .meta { font-size: 12px; color: #666; margin-bottom: 14px; }
+    canvas { max-height: 280px; }
+    @media (max-width: 900px) { .grid { grid-template-columns: 1fr; } }
+  </style>
+</head>
+<body>
+  <h1>Insurance Bot Analytics Dashboard</h1>
+  <div class="meta">Load a JSON file like <code>analytics_summary.sample.json</code> and visualize question ranking + plan popularity.</div>
+
+  <div class="grid">
+    <div class="card">
+      <h2>Top Questions (Popularity)</h2>
+      <canvas id="qPopularity"></canvas>
+    </div>
+    <div class="card">
+      <h2>Questions: Info-Gain vs Drop-Off</h2>
+      <canvas id="qScatter"></canvas>
+    </div>
+    <div class="card">
+      <h2>Chosen Plans (Top 10)</h2>
+      <canvas id="plansTop"></canvas>
+    </div>
+    <div class="card">
+      <h2>Industry Mix: Option Blocks</h2>
+      <canvas id="blocksMix"></canvas>
+    </div>
+  </div>
+
+<script>
+const DATA = window.ANALYTICS_SUMMARY || null;
+
+async function loadDefault() {
+  const resp = await fetch('analytics_summary.sample.json');
+  return await resp.json();
+}
+
+function bar(ctx, labels, values, label) {
+  return new Chart(ctx, { type:'bar', data:{ labels, datasets:[{ label, data: values }] },
+    options:{ responsive:true, plugins:{ legend:{ display:false } } } });
+}
+
+function scatter(ctx, points) {
+  return new Chart(ctx, { type:'scatter', data:{ datasets:[{ label:'Questions', data: points }] },
+    options:{ scales:{ x:{ title:{ display:true, text:'Avg info-gain' } },
+                      y:{ title:{ display:true, text:'Drop-off rate' } } } }});
+}
+
+function stackedBar(ctx, labels, series) {
+  return new Chart(ctx, { type:'bar',
+    data:{ labels, datasets: series },
+    options:{ responsive:true,
+      scales:{ x:{ stacked:true }, y:{ stacked:true, max:1 } },
+      plugins:{ legend:{ position:'bottom' } } } });
+}
+
+(async () => {
+  const d = DATA || await loadDefault();
+
+  // Popularity bar
+  const qLabels = d.questions.map(x => x.question_id);
+  const qPop = d.questions.map(x => x.popularity);
+  bar(document.getElementById('qPopularity'), qLabels, qPop, 'Popularity');
+
+  // Scatter
+  const pts = d.questions.map(x => ({ x: x.avg_info_gain, y: x.dropoff_rate, r: 6, label: x.question_id }));
+  scatter(document.getElementById('qScatter'), pts);
+
+  // Plans top
+  const pLabels = d.chosen_plans_top10.map(x => x.plan_id);
+  const pCounts = d.chosen_plans_top10.map(x => x.count);
+  bar(document.getElementById('plansTop'), pLabels, pCounts, 'Selections');
+
+  // Option blocks mix
+  const blockLabels = Object.keys(d.option_blocks);
+  const keys = new Set();
+  blockLabels.forEach(b => Object.keys(d.option_blocks[b]).forEach(k => keys.add(k)));
+  const series = Array.from(keys).map(k => ({
+    label: k,
+    data: blockLabels.map(b => (d.option_blocks[b][k] ?? 0))
+  }));
+  stackedBar(document.getElementById('blocksMix'), blockLabels, series);
+
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,24 @@
+{
+  "generated_utc": "2026-02-28T17:39:38Z",
+  "window": "monthly",
+  "metrics": {
+    "hospitals_total": null,
+    "beds_total": null,
+    "beds_per_1000": null,
+    "bed_occupancy_avg": null,
+    "trolley_count_8am": null,
+    "delayed_transfers": null,
+    "waiting_list_outpatients": null,
+    "waiting_list_inpatient_daycase": null,
+    "icu_hdu_beds_open_daily": null
+  },
+  "breakdowns": {
+    "by_region": [],
+    "by_hospital_group": [],
+    "service_levels": {
+      "community_stepdown_capacity": null,
+      "diagnostics_capacity": null,
+      "elective_capacity": null
+    }
+  }
+}

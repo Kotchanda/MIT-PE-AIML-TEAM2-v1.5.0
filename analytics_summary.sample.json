@@ -1,0 +1,61 @@
+{
+  "generated_utc": "2026-02-28T17:07:44Z",
+  "window_days": 30,
+  "questions": [
+    {
+      "question_id": "Q_HOSPITAL_LEVEL",
+      "popularity": 0.92,
+      "avg_info_gain": 0.62,
+      "dropoff_rate": 0.04
+    },
+    {
+      "question_id": "Q_DAY_TO_DAY_USAGE",
+      "popularity": 0.71,
+      "avg_info_gain": 0.44,
+      "dropoff_rate": 0.06
+    },
+    {
+      "question_id": "Q_MATERNITY",
+      "popularity": 0.28,
+      "avg_info_gain": 0.31,
+      "dropoff_rate": 0.05
+    },
+    {
+      "question_id": "Q_MENTAL_HEALTH",
+      "popularity": 0.33,
+      "avg_info_gain": 0.29,
+      "dropoff_rate": 0.07
+    }
+  ],
+  "chosen_plans_top10": [
+    {
+      "plan_id": "VHI_PMI_26_12",
+      "count": 120
+    },
+    {
+      "plan_id": "LAYA_SIMPLICITY",
+      "count": 95
+    }
+  ],
+  "option_blocks": {
+    "hospital_preference": {
+      "public": 0.41,
+      "private": 0.52,
+      "hi_tech": 0.07
+    },
+    "day_to_day_usage": {
+      "low": 0.46,
+      "medium": 0.38,
+      "high": 0.16
+    },
+    "maternity": {
+      "yes_soon": 0.12,
+      "maybe": 0.18,
+      "no": 0.7
+    },
+    "travel_cover": {
+      "yes": 0.22,
+      "no": 0.78
+    }
+  }
+}

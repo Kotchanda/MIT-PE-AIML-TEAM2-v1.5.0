@@ -1,0 +1,136 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Health System Readiness Dashboard (Template)</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <style>
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;margin:20px;background:#fafafa;}
+    header{display:flex;justify-content:space-between;align-items:flex-end;gap:12px;margin-bottom:14px;}
+    h1{font-size:20px;margin:0;}
+    .sub{color:#666;font-size:12px;}
+    .grid{display:grid;grid-template-columns:1fr 1fr;gap:16px;}
+    .card{background:white;border:1px solid #e5e5e5;border-radius:14px;padding:14px;}
+    h2{font-size:13px;margin:0 0 10px 0;color:#333;}
+    .kpis{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-bottom:14px;}
+    .kpi{background:#fff;border:1px solid #eee;border-radius:12px;padding:10px;}
+    .kpi .label{font-size:11px;color:#666;}
+    .kpi .value{font-size:18px;font-weight:700;margin-top:4px;}
+    .note{font-size:11px;color:#777;margin-top:8px;line-height:1.35;}
+    canvas{max-height:280px;}
+    @media (max-width: 980px){.grid{grid-template-columns:1fr;}.kpis{grid-template-columns:repeat(2,1fr);}}
+  </style>
+</head>
+<body>
+<header>
+  <div>
+    <h1>Health System Readiness Dashboard (Template)</h1>
+    <div class="sub">For system managers: capacity, flow, and demand pressure.</div>
+  </div>
+  <div class="sub">Data file: <code>gov_health_summary.json</code></div>
+</header>
+
+<div class="kpis" id="kpis"></div>
+
+<div class="grid">
+  <div class="card">
+    <h2>Pressure indicators</h2>
+    <canvas id="pressure"></canvas>
+    <div class="note">Populate from HSE urgent & emergency care report and related sources.</div>
+  </div>
+  <div class="card">
+    <h2>Waiting lists</h2>
+    <canvas id="waiting"></canvas>
+    <div class="note">Populate from NTPF Open Data (outpatients; inpatient/day case).</div>
+  </div>
+  <div class="card">
+    <h2>Regional summary</h2>
+    <canvas id="regions"></canvas>
+  </div>
+  <div class="card">
+    <h2>Improvement portfolio</h2>
+    <canvas id="portfolio"></canvas>
+    <div class="note">Track actions like step-down beds, diagnostics, elective capacity, discharge pathways, staffing.</div>
+  </div>
+</div>
+
+<script>
+async function loadData(){
+  const resp = await fetch('gov_health_summary.sample.json');
+  return await resp.json();
+}
+
+function renderKPIs(d){
+  const items = [
+    ["Hospitals", d.metrics.hospitals_total],
+    ["Beds (total)", d.metrics.beds_total],
+    ["Beds / 1000", d.metrics.beds_per_1000],
+    ["Avg occupancy", d.metrics.bed_occupancy_avg],
+    ["Trolleys @ 8am", d.metrics.trolley_count_8am],
+    ["Delayed transfers", d.metrics.delayed_transfers],
+    ["OP waiting", d.metrics.waiting_list_outpatients],
+    ["IP/DC waiting", d.metrics.waiting_list_inpatient_daycase],
+    ["ICU/HDU open daily", d.metrics.icu_hdu_beds_open_daily]
+  ];
+  const host = document.getElementById('kpis');
+  host.innerHTML = "";
+  items.forEach(([label,val])=>{
+    const el=document.createElement('div');
+    el.className="kpi";
+    el.innerHTML = `<div class="label">${label}</div><div class="value">${(val===null||val===undefined)? "—" : val}</div>`;
+    host.appendChild(el);
+  });
+}
+
+(async ()=>{
+  const d = await loadData();
+  renderKPIs(d);
+
+  new Chart(document.getElementById('pressure'),{
+    type:'bar',
+    data:{
+      labels:['Occupancy','Trolleys','Delayed transfers'],
+      datasets:[{label:'Current', data:[
+        d.metrics.bed_occupancy_avg ?? 0,
+        d.metrics.trolley_count_8am ?? 0,
+        d.metrics.delayed_transfers ?? 0
+      ]}]
+    },
+    options:{plugins:{legend:{display:false}}}
+  });
+
+  new Chart(document.getElementById('waiting'),{
+    type:'bar',
+    data:{labels:['Outpatients','Inpatient/Day Case'],
+      datasets:[{label:'People waiting', data:[
+        d.metrics.waiting_list_outpatients ?? 0,
+        d.metrics.waiting_list_inpatient_daycase ?? 0
+      ]}]},
+    options:{plugins:{legend:{display:false}}}
+  });
+
+  const r = d.breakdowns.by_region || [];
+  new Chart(document.getElementById('regions'),{
+    type:'bar',
+    data:{
+      labels:r.map(x=>x.region),
+      datasets:[
+        {label:'Beds', data:r.map(x=>x.beds ?? 0)},
+        {label:'Trolleys', data:r.map(x=>x.trolleys ?? 0)}
+      ]
+    },
+    options:{responsive:true, plugins:{legend:{position:'bottom'}}}
+  });
+
+  new Chart(document.getElementById('portfolio'),{
+    type:'radar',
+    data:{
+      labels:['Step-down capacity','Virtual wards','Diagnostics','Elective capacity','Discharge pathways','Staffing'],
+      datasets:[{label:'Maturity (0-5)', data:[0,0,0,0,0,0]}]
+    }
+  });
+})();
+</script>
+</body>
+</html>
