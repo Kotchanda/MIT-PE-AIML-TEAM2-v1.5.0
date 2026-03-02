@@ -1,6 +1,6 @@
 {
-  "version": "1.5.0",
-  "generated_utc": "2026-02-28T19:40:37Z",
+  "version": "1.5.1",
+  "generated_utc": "2026-03-01T14:23:29Z",
   "null_scoring": "Treat null as 0 for scoring contributions; do not eliminate on null—flag for verification instead.",
   "hard_filters": [
     {

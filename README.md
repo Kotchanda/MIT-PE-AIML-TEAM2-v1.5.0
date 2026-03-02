@@ -44,3 +44,21 @@ Run enrichment in waves:
 ## Backend (FastAPI)
 A ready-to-run minimal backend is included in `backend_fastapi/`.
 See `backend_fastapi/README.md`.
+
+
+## v1.5.1 Broker-mode upgrade
+- question_bank.json includes broker_openers/soft_probes and is not meant to be shown verbatim.
+- Added broker_conversation_playbook.md
+- Added Lindy_Block_Config_Guide_v1_5_1.md
+
+
+## v1.5.2 Data sanitation update
+- plans.json is now valid JSON (no NaN); blanks are explicit null.
+- plans.csv refreshed; null_key_count and completeness_score recomputed.
+- public_open_url populated (defaults to source_url).
+
+
+## v1.6.0 Full benefit-level ingestion
+- Added benefits[] per plan and ingestion framework under /ingestion
+- Added /plan/{plan_id} and /plan/{plan_id}/benefits endpoints in backend
+- Added UI-only ingestion runbook

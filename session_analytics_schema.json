@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "session_analytics": {
     "session_id": "uuid",
     "timestamp_utc": "ISO-8601",
@@ -54,5 +54,5 @@
     "Do not store names, emails, phone numbers, addresses, age, or premium quotes.",
     "Store only session-level interaction metrics needed to tune question ordering."
   ],
-  "generated_utc": "2026-02-28T19:40:37Z"
+  "generated_utc": "2026-03-01T14:23:29Z"
 }

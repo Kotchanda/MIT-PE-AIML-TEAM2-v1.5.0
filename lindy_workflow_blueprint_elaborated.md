@@ -332,3 +332,24 @@ Run `ilh_toc_ingest.py` (see `ilh_toc_ingest.md`) to ingest ALL Irish Life Healt
 
 ## 10) Government system manager dashboard
 Host `gov_health_dashboard.html` together with a populated `gov_health_summary.json` (same shape as `gov_health_summary.sample.json`) to provide a readable capacity + flow + demand dashboard.
+
+
+## Broker-mode upgrade (v1.5.1): do NOT read the question bank verbatim
+
+**Key change:** `question_bank.json` is treated as an **internal decision model** (intents, field mappings, priorities).
+The agent must behave like a human broker:
+
+- Ask **natural, contextual questions** (openers + probing) based on the user’s wording and lifecycle situation.
+- Use the question bank only to:
+  1) decide **what intent** to resolve next (information gain / friction / popularity),
+  2) map answers to **structured fields** (`maps_to_fields`),
+  3) keep the interaction short (question budget),
+  4) maintain auditability (which intent was resolved and how).
+
+**Implementation rule:** For each `question_id`:
+- Ask using `broker_openers[]` first.
+- If unclear, use at most **one** `soft_probes[]`.
+- Present **buttons** from `broker_button_labels[]` (plus “Not sure”).
+- Never show `question_text` to the user unless you have no suitable opener.
+
+**Benefit:** This preserves structured scoring while giving a genuinely broker-like conversation.

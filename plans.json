@@ -1,6 +1,6 @@
 {
-  "version": "1.5.2",
-  "generated_utc": "2026-03-01T17:15:04Z",
+  "version": "1.6.0",
+  "generated_utc": "2026-03-01T17:33:22Z",
   "plans": [
     {
       "plan_id": "ILH_BENEFIT_TOC",
@@ -27,7 +27,14 @@
       "last_verified": "2026-01-19",
       "null_key_count": 0,
       "completeness_score": 1.0,
-      "public_open_url": "https://www.irishlifehealth.ie/IrishLifeHealth/media/Irish-life-Health/pdfs/tables-of-cover/BeneFit-TOC.pdf"
+      "public_open_url": "https://www.irishlifehealth.ie/IrishLifeHealth/media/Irish-life-Health/pdfs/tables-of-cover/BeneFit-TOC.pdf",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "ILH_FIRST_COVER_TOC",
@@ -54,7 +61,14 @@
       "last_verified": "2026-01-19",
       "null_key_count": 0,
       "completeness_score": 1.0,
-      "public_open_url": "https://www.irishlifehealth.ie/IrishLifeHealth/media/Irish-life-Health/pdfs/tables-of-cover/First-Cover-TOC.pdf"
+      "public_open_url": "https://www.irishlifehealth.ie/IrishLifeHealth/media/Irish-life-Health/pdfs/tables-of-cover/First-Cover-TOC.pdf",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "ILH_SELECT_STARTER_TOC",
@@ -81,7 +95,14 @@
       "last_verified": "2026-01-19",
       "null_key_count": 0,
       "completeness_score": 1.0,
-      "public_open_url": "https://www.irishlifehealth.ie/IrishLifeHealth/media/Irish-life-Health/pdfs/tables-of-cover/Select-Starter-TOC.pdf"
+      "public_open_url": "https://www.irishlifehealth.ie/IrishLifeHealth/media/Irish-life-Health/pdfs/tables-of-cover/Select-Starter-TOC.pdf",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "ILH_OPTIMISE_GOLD_TOC",
@@ -108,7 +129,14 @@
       "last_verified": "2026-01-19",
       "null_key_count": 0,
       "completeness_score": 1.0,
-      "public_open_url": "https://www.irishlifehealth.ie/IrishLifeHealth/media/Irish-life-Health/pdfs/tables-of-cover/Optimise-Gold-TOC.pdf"
+      "public_open_url": "https://www.irishlifehealth.ie/IrishLifeHealth/media/Irish-life-Health/pdfs/tables-of-cover/Optimise-Gold-TOC.pdf",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "ILH_HEALTH_PLAN_01_TOC",
@@ -135,7 +163,14 @@
       "last_verified": "2026-01-19",
       "null_key_count": 8,
       "completeness_score": 0.2,
-      "public_open_url": "https://www.irishlifehealth.ie/mediafiles/pdfs/tables-of-cover/Health-Plan-01-TOC.pdf"
+      "public_open_url": "https://www.irishlifehealth.ie/mediafiles/pdfs/tables-of-cover/Health-Plan-01-TOC.pdf",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "ILH_STUB_01",
@@ -162,7 +197,14 @@
       "last_verified": "2026-01-19",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.irishlifehealth.ie/IrishLifeHealth/media/Irish-life-Health/pdfs/tables-of-cover/BeneFit-1-TOC.pdf"
+      "public_open_url": "https://www.irishlifehealth.ie/IrishLifeHealth/media/Irish-life-Health/pdfs/tables-of-cover/BeneFit-1-TOC.pdf",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "ILH_STUB_02",
@@ -189,7 +231,14 @@
       "last_verified": "2026-01-19",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.irishlifehealth.ie/IrishLifeHealth/media/Irish-life-Health/pdfs/tables-of-cover/BeneFit-2-TOC.pdf"
+      "public_open_url": "https://www.irishlifehealth.ie/IrishLifeHealth/media/Irish-life-Health/pdfs/tables-of-cover/BeneFit-2-TOC.pdf",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "ILH_STUB_03",
@@ -216,7 +265,14 @@
       "last_verified": "2026-01-19",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.irishlifehealth.ie/mediafiles/pdfs/tables-of-cover/BeneFit-Access-300.pdf"
+      "public_open_url": "https://www.irishlifehealth.ie/mediafiles/pdfs/tables-of-cover/BeneFit-Access-300.pdf",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "ILH_STUB_04",
@@ -243,7 +299,14 @@
       "last_verified": "2026-01-19",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.irishlifehealth.ie/IrishLifeHealth/media/Irish-life-Health/pdfs/tables-of-cover/BeneFit-Access-500.pdf"
+      "public_open_url": "https://www.irishlifehealth.ie/IrishLifeHealth/media/Irish-life-Health/pdfs/tables-of-cover/BeneFit-Access-500.pdf",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "ILH_STUB_05",
@@ -270,7 +333,14 @@
       "last_verified": "2026-01-19",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.irishlifehealth.ie/mediafiles/pdfs/tables-of-cover/BeneFit-Extra-TOC.pdf"
+      "public_open_url": "https://www.irishlifehealth.ie/mediafiles/pdfs/tables-of-cover/BeneFit-Extra-TOC.pdf",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "ILH_STUB_06",
@@ -297,7 +367,14 @@
       "last_verified": "2026-01-19",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.irishlifehealth.ie/IrishLifeHealth/media/Irish-life-Health/pdfs/tables-of-cover/Family-Value-Plan-TOC.pdf"
+      "public_open_url": "https://www.irishlifehealth.ie/IrishLifeHealth/media/Irish-life-Health/pdfs/tables-of-cover/Family-Value-Plan-TOC.pdf",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "ILH_STUB_07",
@@ -324,7 +401,14 @@
       "last_verified": "2026-01-19",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.irishlifehealth.ie/mediafiles/pdfs/tables-of-cover/Health-Starter-TOC.pdf"
+      "public_open_url": "https://www.irishlifehealth.ie/mediafiles/pdfs/tables-of-cover/Health-Starter-TOC.pdf",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "ILH_STUB_08",
@@ -351,7 +435,14 @@
       "last_verified": "2026-01-19",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.irishlifehealth.ie/mediafiles/pdfs/tables-of-cover/Health-Value-Plan-TOC.pdf"
+      "public_open_url": "https://www.irishlifehealth.ie/mediafiles/pdfs/tables-of-cover/Health-Value-Plan-TOC.pdf",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "ILH_STUB_09",
@@ -378,7 +469,14 @@
       "last_verified": "2026-01-19",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.irishlifehealth.ie/mediafiles/pdfs/tables-of-cover/MyPlan-150-TOC.pdf"
+      "public_open_url": "https://www.irishlifehealth.ie/mediafiles/pdfs/tables-of-cover/MyPlan-150-TOC.pdf",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "ILH_STUB_10",
@@ -405,7 +503,14 @@
       "last_verified": "2026-01-19",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.irishlifehealth.ie/IrishLifeHealth/media/Irish-life-Health/pdfs/tables-of-cover/MyPlan-350-TOC.pdf"
+      "public_open_url": "https://www.irishlifehealth.ie/IrishLifeHealth/media/Irish-life-Health/pdfs/tables-of-cover/MyPlan-350-TOC.pdf",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "ILH_STUB_11",
@@ -432,7 +537,14 @@
       "last_verified": "2026-01-19",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.irishlifehealth.ie/IrishLifeHealth/media/Irish-life-Health/pdfs/tables-of-cover/MyPlan-500-TOC.pdf"
+      "public_open_url": "https://www.irishlifehealth.ie/IrishLifeHealth/media/Irish-life-Health/pdfs/tables-of-cover/MyPlan-500-TOC.pdf",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "ILH_STUB_12",
@@ -459,7 +571,14 @@
       "last_verified": "2026-01-19",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.irishlifehealth.ie/IrishLifeHealth/media/Irish-life-Health/pdfs/tables-of-cover/Hospital-Focus-TOC.pdf"
+      "public_open_url": "https://www.irishlifehealth.ie/IrishLifeHealth/media/Irish-life-Health/pdfs/tables-of-cover/Hospital-Focus-TOC.pdf",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "ILH_STUB_13",
@@ -486,7 +605,14 @@
       "last_verified": "2026-01-19",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.irishlifehealth.ie/IrishLifeHealth/media/Irish-life-Health/pdfs/tables-of-cover/HealthGuide-2-TOC.pdf"
+      "public_open_url": "https://www.irishlifehealth.ie/IrishLifeHealth/media/Irish-life-Health/pdfs/tables-of-cover/HealthGuide-2-TOC.pdf",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "ILH_STUB_14",
@@ -513,7 +639,14 @@
       "last_verified": "2026-01-19",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.irishlifehealth.ie/IrishLifeHealth/media/Irish-life-Health/pdfs/tables-of-cover/HealthGuide-3-TOC.pdf"
+      "public_open_url": "https://www.irishlifehealth.ie/IrishLifeHealth/media/Irish-life-Health/pdfs/tables-of-cover/HealthGuide-3-TOC.pdf",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_SIMPLICITY",
@@ -540,7 +673,14 @@
       "last_verified": "2026-01-19",
       "null_key_count": 8,
       "completeness_score": 0.2,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/scheme/simplicity"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/scheme/simplicity",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_INSPIRE",
@@ -567,7 +707,14 @@
       "last_verified": "2026-01-19",
       "null_key_count": 8,
       "completeness_score": 0.2,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/scheme/inspire"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/scheme/inspire",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_PROSPER",
@@ -594,7 +741,14 @@
       "last_verified": "2026-01-19",
       "null_key_count": 8,
       "completeness_score": 0.2,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/scheme/prosper"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/scheme/prosper",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_PROSPER_ADVANCED",
@@ -621,7 +775,14 @@
       "last_verified": "2026-01-19",
       "null_key_count": 8,
       "completeness_score": 0.2,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/scheme/prosper-advanced"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/scheme/prosper-advanced",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_INSPIRE_HIA_PDF",
@@ -648,7 +809,14 @@
       "last_verified": "2026-01-19",
       "null_key_count": 9,
       "completeness_score": 0.1,
-      "public_open_url": "https://www.hia.ie/sites/default/files/Inspire.pdf"
+      "public_open_url": "https://www.hia.ie/sites/default/files/Inspire.pdf",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_STUB_01",
@@ -675,7 +843,14 @@
       "last_verified": "2026-01-19",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_STUB_02",
@@ -702,7 +877,14 @@
       "last_verified": "2026-01-19",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_STUB_03",
@@ -729,7 +911,14 @@
       "last_verified": "2026-01-19",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_STUB_04",
@@ -756,7 +945,14 @@
       "last_verified": "2026-01-19",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_STUB_05",
@@ -783,7 +979,14 @@
       "last_verified": "2026-01-19",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_STUB_06",
@@ -810,7 +1013,14 @@
       "last_verified": "2026-01-19",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_STUB_07",
@@ -837,7 +1047,14 @@
       "last_verified": "2026-01-19",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_STUB_08",
@@ -864,7 +1081,14 @@
       "last_verified": "2026-01-19",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_STUB_09",
@@ -891,7 +1115,14 @@
       "last_verified": "2026-01-19",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_STUB_10",
@@ -918,7 +1149,14 @@
       "last_verified": "2026-01-19",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_STUB_11",
@@ -945,7 +1183,14 @@
       "last_verified": "2026-01-19",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LEVEL_1",
@@ -972,7 +1217,14 @@
       "last_verified": "2026-01-19",
       "null_key_count": 8,
       "completeness_score": 0.2,
-      "public_open_url": "https://levelhealth.ie/api/download?path=o%2Fassets%252Fbf5aeb09845647e5a8182770c0ca0fdc%252Fca6b180cf2e64cbf8a7391af0f9ff292%3Falt%3Dmedia%26token%3D511356af-30e0-42f5-a2a7-585a41dc82ce"
+      "public_open_url": "https://levelhealth.ie/api/download?path=o%2Fassets%252Fbf5aeb09845647e5a8182770c0ca0fdc%252Fca6b180cf2e64cbf8a7391af0f9ff292%3Falt%3Dmedia%26token%3D511356af-30e0-42f5-a2a7-585a41dc82ce",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LEVEL_2",
@@ -999,7 +1251,14 @@
       "last_verified": "2026-01-19",
       "null_key_count": 8,
       "completeness_score": 0.2,
-      "public_open_url": "https://levelhealth.ie/api/download?path=o%2Fassets%252Fbf5aeb09845647e5a8182770c0ca0fdc%252Fca6b180cf2e64cbf8a7391af0f9ff292%3Falt%3Dmedia%26token%3D511356af-30e0-42f5-a2a7-585a41dc82ce"
+      "public_open_url": "https://levelhealth.ie/api/download?path=o%2Fassets%252Fbf5aeb09845647e5a8182770c0ca0fdc%252Fca6b180cf2e64cbf8a7391af0f9ff292%3Falt%3Dmedia%26token%3D511356af-30e0-42f5-a2a7-585a41dc82ce",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LEVEL_3",
@@ -1026,7 +1285,14 @@
       "last_verified": "2026-01-19",
       "null_key_count": 8,
       "completeness_score": 0.2,
-      "public_open_url": "https://levelhealth.ie/api/download?path=o%2Fassets%252Fbf5aeb09845647e5a8182770c0ca0fdc%252Fca6b180cf2e64cbf8a7391af0f9ff292%3Falt%3Dmedia%26token%3D511356af-30e0-42f5-a2a7-585a41dc82ce"
+      "public_open_url": "https://levelhealth.ie/api/download?path=o%2Fassets%252Fbf5aeb09845647e5a8182770c0ca0fdc%252Fca6b180cf2e64cbf8a7391af0f9ff292%3Falt%3Dmedia%26token%3D511356af-30e0-42f5-a2a7-585a41dc82ce",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LEVEL_4",
@@ -1053,7 +1319,14 @@
       "last_verified": "2026-01-19",
       "null_key_count": 8,
       "completeness_score": 0.2,
-      "public_open_url": "https://levelhealth.ie/api/download?path=o%2Fassets%252Fbf5aeb09845647e5a8182770c0ca0fdc%252Fca6b180cf2e64cbf8a7391af0f9ff292%3Falt%3Dmedia%26token%3D511356af-30e0-42f5-a2a7-585a41dc82ce"
+      "public_open_url": "https://levelhealth.ie/api/download?path=o%2Fassets%252Fbf5aeb09845647e5a8182770c0ca0fdc%252Fca6b180cf2e64cbf8a7391af0f9ff292%3Falt%3Dmedia%26token%3D511356af-30e0-42f5-a2a7-585a41dc82ce",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LEVEL_OVERSEAS_PDF",
@@ -1080,7 +1353,14 @@
       "last_verified": "2026-01-19",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://levelhealth.ie/api/download?path=o%2Fassets%252Fbf5aeb09845647e5a8182770c0ca0fdc%252F704e171ef036455b86ca159219483759%3Falt%3Dmedia%26token%3D7d6c7223-3820-4da1-9f6e-dae97a48ab3e"
+      "public_open_url": "https://levelhealth.ie/api/download?path=o%2Fassets%252Fbf5aeb09845647e5a8182770c0ca0fdc%252F704e171ef036455b86ca159219483759%3Falt%3Dmedia%26token%3D7d6c7223-3820-4da1-9f6e-dae97a48ab3e",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PMI_2612",
@@ -1107,7 +1387,14 @@
       "last_verified": "2026-01-19",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://vhi.ie/downloads/table-of-benefits/LIFCPM26"
+      "public_open_url": "https://vhi.ie/downloads/table-of-benefits/LIFCPM26",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PMI_3613",
@@ -1134,7 +1421,14 @@
       "last_verified": "2026-01-19",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.vhi.ie/pdf/myvhi/TOBPMI%203613%20V6%20Aug16.pdf"
+      "public_open_url": "https://www.vhi.ie/pdf/myvhi/TOBPMI%203613%20V6%20Aug16.pdf",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PLAN_B",
@@ -1161,7 +1455,14 @@
       "last_verified": "2026-01-19",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.vhi.ie/downloads/table-of-benefits/LIFFPXT"
+      "public_open_url": "https://www.vhi.ie/downloads/table-of-benefits/LIFFPXT",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_COMPANY_PLAN_PLUS_L1",
@@ -1188,7 +1489,14 @@
       "last_verified": "2026-01-19",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.vhi.ie/downloads/table-of-benefits/LIFCPP"
+      "public_open_url": "https://www.vhi.ie/downloads/table-of-benefits/LIFCPP",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_DOWNLOADS",
@@ -1215,7 +1523,14 @@
       "last_verified": "2026-01-19",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.vhi.ie/downloads"
+      "public_open_url": "https://www.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PMI_05_11",
@@ -1242,7 +1557,14 @@
       "last_verified": "2026-01-19",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.vhi.ie/downloads/table-of-benefits/LIFCPM05"
+      "public_open_url": "https://www.vhi.ie/downloads/table-of-benefits/LIFCPM05",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PMI_17_10",
@@ -1269,7 +1591,14 @@
       "last_verified": "2026-01-19",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.vhi.ie/downloads/table-of-benefits/LIFPMI1710"
+      "public_open_url": "https://www.vhi.ie/downloads/table-of-benefits/LIFPMI1710",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PMI_21_11",
@@ -1296,7 +1625,14 @@
       "last_verified": "2026-01-19",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://vhi.ie/downloads/table-of-benefits/LIFCPM21"
+      "public_open_url": "https://vhi.ie/downloads/table-of-benefits/LIFCPM21",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PMI_24_10",
@@ -1323,7 +1659,14 @@
       "last_verified": "2026-01-19",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.vhi.ie/downloads/table-of-benefits/LIFPMI2410"
+      "public_open_url": "https://www.vhi.ie/downloads/table-of-benefits/LIFPMI2410",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PMI_39_14",
@@ -1350,7 +1693,14 @@
       "last_verified": "2026-01-19",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.vhi.ie/downloads/table-of-benefits/LIFPMI3914"
+      "public_open_url": "https://www.vhi.ie/downloads/table-of-benefits/LIFPMI3914",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PMI_50_10",
@@ -1377,7 +1727,14 @@
       "last_verified": "2026-01-19",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.vhi.ie/downloads/table-of-benefits/LIFPMI5010"
+      "public_open_url": "https://www.vhi.ie/downloads/table-of-benefits/LIFPMI5010",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PMI_53_10",
@@ -1404,7 +1761,14 @@
       "last_verified": "2026-01-19",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.vhi.ie/downloads/table-of-benefits/LIFPMI5310"
+      "public_open_url": "https://www.vhi.ie/downloads/table-of-benefits/LIFPMI5310",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PMI_59_10",
@@ -1431,7 +1795,14 @@
       "last_verified": "2026-01-19",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.vhi.ie/downloads/table-of-benefits/LIFPMI5910"
+      "public_open_url": "https://www.vhi.ie/downloads/table-of-benefits/LIFPMI5910",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_ADVANTAGE_125_CHOICE",
@@ -1458,7 +1829,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_ADVANTAGE_125_EXPLORE",
@@ -1485,7 +1863,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_ADVANTAGE_125_PLUS",
@@ -1512,7 +1897,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_ADVANTAGE_175_EXPLORE",
@@ -1539,7 +1931,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_ADVANTAGE_250_CHOICE",
@@ -1566,7 +1965,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_ADVANTAGE_250_EXPLORE",
@@ -1593,7 +1999,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_ADVANTAGE_250_PLUS",
@@ -1620,7 +2033,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_ADVANTAGE_500_CHOICE",
@@ -1647,7 +2067,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_ADVANTAGE_500_EXPLORE",
@@ -1674,7 +2101,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_ADVANTAGE_500_PLUS",
@@ -1701,7 +2135,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_ASSURE_HEALTH",
@@ -1728,7 +2169,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_ASSURE_IDEAL",
@@ -1755,7 +2203,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_ASSURE_VITALITY",
@@ -1782,7 +2237,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_CARE_MANAGER_SUITE",
@@ -1809,7 +2271,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_COMPLETECARE",
@@ -1836,7 +2305,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_HEALTH_SMART_FAMILY",
@@ -1863,7 +2339,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_COMPANY_CARE_SUITE",
@@ -1890,7 +2373,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_COMPANYCARE_EXCESS",
@@ -1917,7 +2407,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_COMPANYCARE_CHOICE",
@@ -1944,7 +2441,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_COMPANYCARE_GOLD",
@@ -1971,7 +2475,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_COMPANYCARE_PLUS",
@@ -1998,7 +2509,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_COMPANYCARE_PREMIUM_EXCESS",
@@ -2025,7 +2543,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_COMPANYCARE_STARTER",
@@ -2052,7 +2577,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_COMPANYHEALTH_SUITE",
@@ -2079,7 +2611,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_COMPANYHEALTH",
@@ -2106,7 +2645,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_COMPANYHEALTH_PLUS_EXCESS",
@@ -2133,7 +2679,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_CONNECT_CARE_SUITE",
@@ -2160,7 +2713,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_CONNECT_CARE_100",
@@ -2187,7 +2747,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_CONNECT_CARE_150",
@@ -2214,7 +2781,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_CONNECT_CARE_500",
@@ -2241,7 +2815,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_CONNECT_CHOICE_500",
@@ -2268,7 +2849,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_CONNECTCARE",
@@ -2295,7 +2883,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_CONNECTCHOICE",
@@ -2322,7 +2917,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_CONTROL_SUITE",
@@ -2349,7 +2951,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_CONTROL_150_CONNECT",
@@ -2376,7 +2985,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_CONTROL_150_CREATE",
@@ -2403,7 +3019,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_CONTROL_150_SECURE",
@@ -2430,7 +3053,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_CONTROL_150_TOTAL",
@@ -2457,7 +3087,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_CONTROL_300_CONNECT",
@@ -2484,7 +3121,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_CONTROL_300_CREATE",
@@ -2511,7 +3155,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_CONTROL_300_SECURE",
@@ -2538,7 +3189,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_CONTROL_300_TOTAL",
@@ -2565,7 +3223,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_CONTROL_450_CONNECT",
@@ -2592,7 +3257,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_CONTROL_SUITE_CONT",
@@ -2619,7 +3291,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_CONTROL_450_CREATE",
@@ -2646,7 +3325,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_CONTROL_450_SECURE",
@@ -2673,7 +3359,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_CONTROL_450_TOTAL",
@@ -2700,7 +3393,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_CONTROL_600_CONNECT",
@@ -2727,7 +3427,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_CONTROL_600_CREATE",
@@ -2754,7 +3461,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_CONTROL_600_SECURE",
@@ -2781,7 +3495,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_CONTROL_600_TOTAL",
@@ -2808,7 +3529,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_EMPOWER_150_CONNECT",
@@ -2835,7 +3563,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_EMPOWER_150_CREATE",
@@ -2862,7 +3597,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_EMPOWER_150_SECURE",
@@ -2889,7 +3631,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_EMPOWER_CONNECT_NO_EXCESS",
@@ -2916,7 +3665,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_EMPOWER_CREATE_NO_EXCESS",
@@ -2943,7 +3699,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_EMPOWER_SECURE_NO_EXCESS",
@@ -2970,7 +3733,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_ESSENTIAL",
@@ -2997,7 +3767,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_ESSENTIAL_ASSIST",
@@ -3024,7 +3801,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_ESSENTIAL_COMPLETE",
@@ -3051,7 +3835,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_ESSENTIAL_CONNECT",
@@ -3078,7 +3869,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_ESSENTIAL_CONNECT_FAMILY",
@@ -3105,7 +3903,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_ESSENTIAL_CONNECT_HEALTH",
@@ -3132,7 +3937,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_ESSENTIAL_CONNECT_SAVER",
@@ -3159,7 +3971,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_ESSENTIAL_FIRST",
@@ -3186,7 +4005,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_ESSENTIAL_GOLD",
@@ -3213,7 +4039,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_ESSENTIAL_PLUS_EXCESS",
@@ -3240,7 +4073,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_ESSENTIAL_PLUS_NO_EXCESS",
@@ -3267,7 +4107,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_ESSENTIAL_PLUS_STARTER",
@@ -3294,7 +4141,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_ESSENTIAL_SECURE",
@@ -3321,7 +4175,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_ESSENTIAL_SELECT",
@@ -3348,7 +4209,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_ESSENTIAL_STARTER",
@@ -3375,7 +4243,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_HEALTH_SMART",
@@ -3402,7 +4277,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_FLEX_125_CHOICE",
@@ -3429,7 +4311,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_FLEX_125_EXPLORE",
@@ -3456,7 +4345,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_FLEX_125_PLUS",
@@ -3483,7 +4379,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_FLEX_175_EXPLORE",
@@ -3510,7 +4413,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_FLEX_250_CHOICE",
@@ -3537,7 +4447,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_FLEX_250_EXPLORE",
@@ -3564,7 +4481,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_FLEX_250_PLUS",
@@ -3591,7 +4515,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_FLEX_500_CHOICE",
@@ -3618,7 +4549,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_FLEX_500_EXPLORE",
@@ -3645,7 +4583,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_FLEX_500_PLUS",
@@ -3672,7 +4617,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_FUTURE_PROTECT_SUITE",
@@ -3699,7 +4651,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_FUTURE_PROTECT",
@@ -3726,7 +4685,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_FUTURE_PROTECT_CHOICE",
@@ -3753,7 +4719,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_FUTURE_PROTECT_PLUS",
@@ -3780,7 +4753,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_HEALTHMANAGER",
@@ -3807,7 +4787,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_HEALTHMANAGER_SUITE_CONT",
@@ -3834,7 +4821,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_HEALTHMANAGER_FIRST",
@@ -3861,7 +4855,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_HEALTHMANAGER_GOLD",
@@ -3888,7 +4889,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_HEALTHMANAGER_SILVER",
@@ -3915,7 +4923,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_HEALTHMANAGER_STARTER",
@@ -3942,7 +4957,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_HEALTH_SENSE_SUITE",
@@ -3969,7 +4991,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_HEALTH_SENSE_EXCESS",
@@ -3996,7 +5025,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_HEALTH_SENSE_COMPLETE",
@@ -4023,7 +5059,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_HEALTH_SENSE_CONNECT",
@@ -4050,7 +5093,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_PRECISION_SUITE",
@@ -4077,7 +5127,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_PRECISION_150_CONNECT",
@@ -4104,7 +5161,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_PRECISION_150_CREATE",
@@ -4131,7 +5195,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_PRECISION_150_TOTAL",
@@ -4158,7 +5229,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_PRECISION_300_CONNECT",
@@ -4185,7 +5263,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_PRECISION_300_CREATE",
@@ -4212,7 +5297,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_PRECISION_300_TOTAL",
@@ -4239,7 +5331,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_PRECISION_450_CONNECT",
@@ -4266,7 +5365,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_PRECISION_450_CREATE",
@@ -4293,7 +5399,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_PRECISION_450_TOTAL",
@@ -4320,7 +5433,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_PRECISION_600_CONNECT",
@@ -4347,7 +5467,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_PRECISION_600_CREATE",
@@ -4374,7 +5501,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_PRECISION_600_TOTAL",
@@ -4401,7 +5535,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_SIMPLY_CONNECT_SUITE",
@@ -4428,7 +5569,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_SIMPLY_CONNECT",
@@ -4455,7 +5603,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_SIMPLY_CONNECT_PLUS",
@@ -4482,7 +5637,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_SIMPLYHEALTH_CHOICE",
@@ -4509,7 +5671,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_SIMPLYHEALTH_PLUS",
@@ -4536,7 +5705,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_SIMPLYHEALTH_EXCESS",
@@ -4563,7 +5739,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_SIMPLYHEALTH_CONNECT",
@@ -4590,7 +5773,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_SIMPLYHEALTH_STARTER",
@@ -4617,7 +5807,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_TOTAL_HEALTH_SUITE",
@@ -4644,7 +5841,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_TOTAL_HEALTH_NO_EXCESS",
@@ -4671,7 +5875,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_TOTAL_HEALTH_CHOICE",
@@ -4698,7 +5909,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_TOTAL_HEALTH_COMPLETE",
@@ -4725,7 +5943,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_TOTAL_HEALTH_COMPLETE_175",
@@ -4752,7 +5977,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_TOTAL_HEALTH_PLUS",
@@ -4779,7 +6011,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_TOTAL_HEALTH_SELECT",
@@ -4806,7 +6045,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_ESSENTIAL_VALUE_500",
@@ -4833,7 +6079,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/"
+      "public_open_url": "https://www.layahealthcare.ie/productsandservices/plan/",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_ONE_PLAN",
@@ -4860,7 +6113,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_ONE_PLAN",
@@ -4887,7 +6147,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_ONE_PLAN_FAMILY",
@@ -4914,7 +6181,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_COMPANY_PLAN",
@@ -4941,7 +6215,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_COMPANY_PLAN_PLUS_LEVEL_1",
@@ -4968,7 +6249,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PMI_36_13",
@@ -4995,7 +6283,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_COMPANY_PLAN_EXECUTIVE",
@@ -5022,7 +6317,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_COMPANY_PLAN_EXTRA_LEVEL_1",
@@ -5049,7 +6351,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_COMPANY_PLAN_EXTRA_LEVEL_2",
@@ -5076,7 +6385,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_COMPANY_PLAN_EXTRA_LEVEL_2_EXCESS",
@@ -5103,7 +6419,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_COMPANY_PLAN_PLUS_LEVEL_1_3",
@@ -5130,7 +6453,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_NURSES_PLAN_SELECT",
@@ -5157,7 +6487,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PMI_01_10",
@@ -5184,7 +6521,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PMI_04_10",
@@ -5211,7 +6555,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PMI_06_10",
@@ -5238,7 +6589,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PMI_07_10",
@@ -5265,7 +6623,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PMI_14_10",
@@ -5292,7 +6657,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PMI_08_11",
@@ -5319,7 +6691,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PMI_10_11",
@@ -5346,7 +6725,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PMI_12_11",
@@ -5373,7 +6759,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PMI_18_11",
@@ -5400,7 +6793,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PMI_19_11",
@@ -5427,7 +6827,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PMI_25_11",
@@ -5454,7 +6861,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PMI_26_12",
@@ -5481,7 +6895,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PMI_29_12",
@@ -5508,7 +6929,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PMI_31_12",
@@ -5535,7 +6963,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PMI_32_12",
@@ -5562,7 +6997,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PMI_35_13",
@@ -5589,7 +7031,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PMI_38_14",
@@ -5616,7 +7065,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PMI_40_15",
@@ -5643,7 +7099,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PMI_41_15",
@@ -5670,7 +7133,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_TEACHERS_PLAN_SELECT",
@@ -5697,7 +7167,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PMI_43_16",
@@ -5724,7 +7201,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PMI_44_16",
@@ -5751,7 +7235,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PMI_45_10",
@@ -5778,7 +7269,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PMI_46_10",
@@ -5805,7 +7303,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PMI_47_10",
@@ -5832,7 +7337,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PMI_48_10",
@@ -5859,7 +7371,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PMI_49_10",
@@ -5886,7 +7405,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PMI_51_10",
@@ -5913,7 +7439,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PMI_52_10",
@@ -5940,7 +7473,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PMI_54_10",
@@ -5967,7 +7507,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PMI_55_10",
@@ -5994,7 +7541,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PMI_56_10",
@@ -6021,7 +7575,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PMI_60_10",
@@ -6048,7 +7609,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PMI_61_10",
@@ -6075,7 +7643,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PMI_63_10",
@@ -6102,7 +7677,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PMI_64_10",
@@ -6129,7 +7711,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PMI_65_10",
@@ -6156,7 +7745,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PMI_66_10",
@@ -6183,7 +7779,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PMI_67_10",
@@ -6210,7 +7813,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PUBLICPLUS_CARE",
@@ -6237,7 +7847,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PUBLICPLUS_CARE_DAY_TO_DAY",
@@ -6264,7 +7881,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PREMIUMCARE",
@@ -6291,7 +7915,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PREMIUMCARE_SELECT",
@@ -6318,7 +7949,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_ADVANCEDCARE_EXTRA_DAY_TO_DAY",
@@ -6345,7 +7983,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_FIRSTCARE_EXTRA_150_DAY_TO_DAY",
@@ -6372,7 +8017,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_FIRSTCARE_250_DAY_TO_DAY",
@@ -6399,7 +8051,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_FIRSTCARE_500_DAY_TO_DAY",
@@ -6426,7 +8085,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_ENHANCEDCARE_150_DAY_TO_DAY",
@@ -6453,7 +8119,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_ENHANCEDCARE_250_DAY_TO_DAY",
@@ -6480,7 +8153,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_ENHANCEDCARE_150",
@@ -6507,7 +8187,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_ENHANCEDCARE_250",
@@ -6534,7 +8221,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_ENHANCEDCARE_COMPLETE_75_DAY_TO_DAY",
@@ -6561,7 +8255,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_ENHANCEDCARE_COMPLETE_150_DAY_TO_DAY",
@@ -6588,7 +8289,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_ENHANCEDCARE_COMPLETE_75",
@@ -6615,7 +8323,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_ENHANCEDCARE_COMPLETE_150",
@@ -6642,7 +8357,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_ADVANCEDCARE_250_DAY_TO_DAY",
@@ -6669,7 +8391,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_ADVANCEDCARE_250",
@@ -6696,7 +8425,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_ADVANCEDCARE_100_DAY_TO_DAY",
@@ -6723,7 +8459,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_ADVANCEDCARE_50_DAY_TO_DAY",
@@ -6750,7 +8493,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_ADVANCEDCARE_100",
@@ -6777,7 +8527,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_ADVANCEDCARE_50",
@@ -6804,7 +8561,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_ENHANCEDCARE_350",
@@ -6831,7 +8595,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_ENHANCEDCARE_350_DAY_TO_DAY",
@@ -6858,7 +8629,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_ADVANCEDCARE_EXTRA",
@@ -6885,7 +8663,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_ADVANCEDCARE",
@@ -6912,7 +8697,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_ADVANCEDCARE_DAY_TO_DAY",
@@ -6939,7 +8731,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_ADVANCEDCARE_EXTRA_DAY_TO_DAY_SELECT",
@@ -6966,7 +8765,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PROVIDENTCARE",
@@ -6993,7 +8799,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PROVIDENTCARE_PLUS",
@@ -7020,7 +8833,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PMI_68_10",
@@ -7047,7 +8867,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PMI_70_10",
@@ -7074,7 +8901,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_PUBLICPLUS_CARE_EXTRA_DAY_TO_DAY",
@@ -7101,7 +8935,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_HEALTHSTEPS_GOLD",
@@ -7128,7 +8969,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_HEALTHSTEPS_SILVER",
@@ -7155,7 +9003,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_VHI_INTERNATIONAL_LEVEL_1",
@@ -7182,7 +9037,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_VHI_INTERNATIONAL_LEVEL_2",
@@ -7209,7 +9071,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_VHI_DENTAL_PLAN",
@@ -7236,7 +9105,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "VHI_VHI_DENTAL_PLAN_PLUS",
@@ -7263,7 +9139,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www1.vhi.ie/downloads"
+      "public_open_url": "https://www1.vhi.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "ILH_HEALTHGUIDE_1_TOC",
@@ -7290,7 +9173,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.irishlifehealth.ie/mediafiles/pdfs/tables-of-cover/HealthGuide-1-TOC.pdf"
+      "public_open_url": "https://www.irishlifehealth.ie/mediafiles/pdfs/tables-of-cover/HealthGuide-1-TOC.pdf",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "ILH_SELECT_PLUS_TOC",
@@ -7317,7 +9207,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.irishlifehealth.ie/mediafiles/pdfs/tables-of-cover/Select-Plus-TOC.pdf"
+      "public_open_url": "https://www.irishlifehealth.ie/mediafiles/pdfs/tables-of-cover/Select-Plus-TOC.pdf",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LEVEL_DOWNLOADS",
@@ -7344,7 +9241,14 @@
       "last_verified": "2026-02-01",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.levelhealth.ie/downloads"
+      "public_open_url": "https://www.levelhealth.ie/downloads",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LAYA_INSPIRE_ACCESS",
@@ -7371,7 +9275,14 @@
       "last_verified": "2026-02-28",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.hia.ie/news/laya-healthcare-changes-effective-1-january-2026"
+      "public_open_url": "https://www.hia.ie/news/laya-healthcare-changes-effective-1-january-2026",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LEVEL_PLAN_A",
@@ -7398,7 +9309,14 @@
       "last_verified": "2026-02-28",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.hia.ie/news/level-health-price-and-benefit-changes-effective-2-february-2026"
+      "public_open_url": "https://www.hia.ie/news/level-health-price-and-benefit-changes-effective-2-february-2026",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LEVEL_PLAN_B_150",
@@ -7425,7 +9343,14 @@
       "last_verified": "2026-02-28",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.hia.ie/news/level-health-price-and-benefit-changes-effective-2-february-2026"
+      "public_open_url": "https://www.hia.ie/news/level-health-price-and-benefit-changes-effective-2-february-2026",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LEVEL_PLAN_B_150_DAY_TO_DAY",
@@ -7452,7 +9377,14 @@
       "last_verified": "2026-02-28",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.hia.ie/news/level-health-price-and-benefit-changes-effective-2-february-2026"
+      "public_open_url": "https://www.hia.ie/news/level-health-price-and-benefit-changes-effective-2-february-2026",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LEVEL_PLAN_B_300",
@@ -7479,7 +9411,14 @@
       "last_verified": "2026-02-28",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.hia.ie/news/level-health-price-and-benefit-changes-effective-2-february-2026"
+      "public_open_url": "https://www.hia.ie/news/level-health-price-and-benefit-changes-effective-2-february-2026",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LEVEL_PLAN_B_300_DAY_TO_DAY",
@@ -7506,7 +9445,14 @@
       "last_verified": "2026-02-28",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.hia.ie/news/level-health-price-and-benefit-changes-effective-2-february-2026"
+      "public_open_url": "https://www.hia.ie/news/level-health-price-and-benefit-changes-effective-2-february-2026",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LEVEL_PLAN_B_500",
@@ -7533,7 +9479,14 @@
       "last_verified": "2026-02-28",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.hia.ie/news/level-health-price-and-benefit-changes-effective-2-february-2026"
+      "public_open_url": "https://www.hia.ie/news/level-health-price-and-benefit-changes-effective-2-february-2026",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LEVEL_PLAN_B_500_DAY_TO_DAY",
@@ -7560,7 +9513,14 @@
       "last_verified": "2026-02-28",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.hia.ie/news/level-health-price-and-benefit-changes-effective-2-february-2026"
+      "public_open_url": "https://www.hia.ie/news/level-health-price-and-benefit-changes-effective-2-february-2026",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LEVEL_PLAN_C",
@@ -7587,7 +9547,14 @@
       "last_verified": "2026-02-28",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.hia.ie/news/level-health-price-and-benefit-changes-effective-2-february-2026"
+      "public_open_url": "https://www.hia.ie/news/level-health-price-and-benefit-changes-effective-2-february-2026",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LEVEL_PLAN_C_DAY_TO_DAY",
@@ -7614,7 +9581,14 @@
       "last_verified": "2026-02-28",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.hia.ie/news/level-health-price-and-benefit-changes-effective-2-february-2026"
+      "public_open_url": "https://www.hia.ie/news/level-health-price-and-benefit-changes-effective-2-february-2026",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     },
     {
       "plan_id": "LEVEL_PLAN_D",
@@ -7641,7 +9615,17 @@
       "last_verified": "2026-02-28",
       "null_key_count": 10,
       "completeness_score": 0.0,
-      "public_open_url": "https://www.hia.ie/news/level-health-price-and-benefit-changes-effective-2-february-2026"
+      "public_open_url": "https://www.hia.ie/news/level-health-price-and-benefit-changes-effective-2-february-2026",
+      "benefits": [],
+      "benefits_meta": {
+        "extraction_status": "not_started",
+        "sources": [],
+        "last_extracted_utc": null,
+        "parser_version": null
+      }
     }
+  ],
+  "notes": [
+    "v1.6.0: Added benefits[] (full benefit-level extraction) and benefits_meta for traceability. Core fields remain for fast scoring; they can be derived from benefits when extraction is completed."
   ]
 }

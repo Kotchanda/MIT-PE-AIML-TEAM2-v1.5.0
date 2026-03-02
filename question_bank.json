@@ -1,7 +1,7 @@
 {
   "package": "irish-health-insurance-chooser",
-  "version": "1.0.6",
-  "generated_utc": "2026-02-28T19:40:37Z",
+  "version": "1.5.1",
+  "generated_utc": "2026-03-01T14:23:29Z",
   "priority_formula": "effective_priority = base_priority + (info_gain_weight * expected_info_gain) + (popularity_weight * popularity_score) - (friction_weight * friction_score)",
   "questions": [
     {
@@ -54,7 +54,22 @@
       },
       "popularity_weight": 1.4,
       "info_gain_weight": 2.0,
-      "friction_weight": 0.2
+      "friction_weight": 0.2,
+      "broker_intent": "hospital_access_preference",
+      "broker_openers": [
+        "Let’s start with where you want to be treated if something serious happens—public hospitals only, or would you want private access too?",
+        "When it comes to hospital cover, do you lean toward public-only, private, or ‘I want the highest level available’?"
+      ],
+      "soft_probes": [
+        "If you had to choose one: lower premium or broader hospital choice?",
+        "Do you have any preferred hospitals/consultants, or is flexibility the priority?"
+      ],
+      "broker_button_labels": [
+        "Public only",
+        "Private access",
+        "Highest level",
+        "Not sure"
+      ]
     },
     {
       "question_id": "Q_PRICE_POSTURE",
@@ -96,7 +111,22 @@
       },
       "popularity_weight": 1.1,
       "info_gain_weight": 1.2,
-      "friction_weight": 0.3
+      "friction_weight": 0.3,
+      "broker_intent": "budget_tradeoff",
+      "broker_openers": [
+        "How do you like to buy insurance—keep it lean on price, balanced, or pay more for broader benefits?",
+        "If two plans fit, would you rather save money or pay extra to reduce exclusions and out-of-pocket surprises?"
+      ],
+      "soft_probes": [
+        "Is your main goal cost control, or peace of mind?",
+        "Any monthly budget comfort range? (You can answer roughly.)"
+      ],
+      "broker_button_labels": [
+        "Budget-first",
+        "Balanced",
+        "Premium benefits",
+        "Not sure"
+      ]
     },
     {
       "question_id": "Q_MATERNITY",
@@ -129,7 +159,21 @@
       },
       "popularity_weight": 1.2,
       "info_gain_weight": 1.3,
-      "friction_weight": 0.4
+      "friction_weight": 0.4,
+      "broker_intent": "maternity_planning",
+      "broker_openers": [
+        "Any chance maternity benefits matter for you in the next couple of years? If not, we can avoid paying for it.",
+        "Should we prioritise maternity cover, or treat it as optional?"
+      ],
+      "soft_probes": [
+        "If maternity is relevant, do you want private maternity hospitals access or is public sufficient?"
+      ],
+      "broker_button_labels": [
+        "Yes / likely",
+        "No",
+        "Unsure",
+        "Prefer not to say"
+      ]
     },
     {
       "question_id": "Q_OUTPATIENT_USAGE",
@@ -192,7 +236,21 @@
       },
       "popularity_weight": 1.1,
       "info_gain_weight": 1.0,
-      "friction_weight": 0.4
+      "friction_weight": 0.4,
+      "broker_intent": "mental_health_priority",
+      "broker_openers": [
+        "Would you like us to prioritise mental health benefits (e.g., counselling/inpatient), or keep it general?",
+        "Some plans are stronger on mental health supports—should that be a key factor?"
+      ],
+      "soft_probes": [
+        "Is it about counselling/day-to-day supports, inpatient cover, or both?"
+      ],
+      "broker_button_labels": [
+        "Yes, priority",
+        "Nice-to-have",
+        "Not needed",
+        "Not sure"
+      ]
     },
     {
       "question_id": "Q_ROOM_PREFERENCE",
@@ -286,7 +344,24 @@
       },
       "popularity_weight": 0.8,
       "info_gain_weight": 0.7,
-      "friction_weight": 0.3
+      "friction_weight": 0.3,
+      "broker_intent": "out_of_pocket_tolerance",
+      "broker_openers": [
+        "Some plans cost less but you pay an excess when you claim. How do you feel about that trade-off?",
+        "Would you rather avoid excess entirely, accept a small one, or you’re fine with a higher excess to reduce premium?"
+      ],
+      "soft_probes": [
+        "If you needed a procedure tomorrow, would you prefer lower upfront cost or lower cost at the point of use?"
+      ],
+      "broker_button_labels": [
+        "Avoid excess",
+        "Small excess ok",
+        "Higher excess ok",
+        "Not sure"
+      ]
     }
+  ],
+  "notes": [
+    "v1.5.1: question_bank is an internal intent/routing model; agent asks broker-style natural questions using broker_openers/soft_probes, not question_text verbatim."
   ]
 }
